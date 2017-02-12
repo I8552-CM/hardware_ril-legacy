@@ -13,6 +13,7 @@ LOCAL_SHARED_LIBRARIES := \
     libbinder \
     libcutils \
     libhardware_legacy
+LOCAL_CLANG := false
 
 LOCAL_CFLAGS :=
 
